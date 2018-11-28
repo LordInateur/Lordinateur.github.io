@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},i=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")]),n("div",[t._v("Made by : Matthieu Fournier")]),n("div",[t._v("And it's not a joke !")])])}],u=n("2877"),o={},s=Object(u["a"])(o,a,i,!1,null,null,null);s.options.__file="About.vue";e["default"]=s.exports}}]);
-//# sourceMappingURL=about.9f119f81.js.map
+//# sourceMappingURL=about.9b5a3f61.js.map
